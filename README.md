@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- I'm currently working on a Snake clone written in C++ and OpenGL!
 - I'm still learning C++ (and git 😅).
 - Looking to collaborate on FOSS projects or anything C++ related.
 
