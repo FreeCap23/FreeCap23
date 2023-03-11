@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-- I'm still learning C++ (and git 😅).
-- Looking to collaborate on FOSS projects or anything C++ related.
+- I'm a first-year student at Technical University Gheorghe Asachi
+- I'm learning C/C++ (and git 😅).
+- Looking to collaborate on FOSS projects or anything C/C++ related.
 
 <!--
 **FreeCap23/FreeCap23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
