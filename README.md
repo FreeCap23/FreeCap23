@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm a first-year student at Technical University Gheorghe Asachi
+- I'm a second year student at Technical University Gheorghe Asachi
 - I'm learning C/C++ (and git 😅).
 - Looking to collaborate on FOSS projects or anything C/C++ related.
 
