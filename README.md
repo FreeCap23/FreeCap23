@@ -1,7 +1,7 @@
 ### Hi there 👋
-- I'm a third year student at Technical University Gheorghe Asachi
-- I'm learning C/C++ (and git 😅).
-- Looking to collaborate on FOSS projects or anything C/C++ related.
+- I'm a third year student at Technical University Gheorghe Asachi.
+- I'm interested in C/C++, Rust & Java, but I'm open to others too.
+- Looking to collaborate on FOSS projects.
 
 <!--
 **FreeCap23/FreeCap23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
