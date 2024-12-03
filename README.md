@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm a third year student at Technical University Gheorghe Asachi.
+- I'm a third year student at "Gheorghe Asachi" Technical University.
 - I'm interested in C/C++, Rust & Java, but I'm open to others too.
 - Looking to collaborate on FOSS projects.
 
